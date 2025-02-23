@@ -1,0 +1,17 @@
+# grok.research - Beekeemon Research Recap (Initialized Feb 21, 2025)
+
+**Research Focus**: Exploring beekeeping games to refine *Beekeemon*’s mechanics, art, and development process.
+
+**History of Research**:
+- **Feb 21, 2025**:  
+  - **Scope**: Focused on troubleshooting and artwork pipeline.  
+  - **Findings**: No external research yet, but identified need for pixel art tools (e.g., Photopea for resizing).  
+- **Prior Context**: Hive dynamics inspired by sim games, but specifics from other titles pending.
+
+**Beekeeping Games on Radar**:
+- *APICO*: Breeding and conservation mechanics.  
+- *Beekeeper*: Economic strategy focus.  
+- *Hive Time*: Base-building elements.  
+- **Research Gaps**: How do these games handle visuals, player engagement, and development challenges?
+
+**Trajectory Aligned**: We’re aiming for a retro sim with deep hive mechanics and crisp pixel art, distinct from idle or economic games. Next, we’ll research these titles to refine our approach and solve image scaling issues.

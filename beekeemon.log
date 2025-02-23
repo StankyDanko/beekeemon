@@ -1,0 +1,1479 @@
+2025-02-23 09:52:19,499 - INFO - Launching Beekeemon
+2025-02-23 09:52:19,500 - INFO - Initializing Pygame
+2025-02-23 09:52:19,758 - INFO - Creating initial bees
+2025-02-23 09:52:19,758 - INFO - Creating bee of type: Queen
+2025-02-23 09:52:19,764 - INFO - Successfully loaded image for Queen
+2025-02-23 09:52:19,764 - INFO - Creating bee of type: Drone
+2025-02-23 09:52:19,765 - INFO - Successfully loaded image for Drone
+2025-02-23 09:52:19,765 - INFO - Creating bee of type: Drone
+2025-02-23 09:52:19,765 - INFO - Successfully loaded image for Drone
+2025-02-23 09:52:19,765 - INFO - Creating bee of type: Worker
+2025-02-23 09:52:19,766 - INFO - Successfully loaded image for Worker
+2025-02-23 09:52:19,766 - INFO - Creating bee of type: Worker
+2025-02-23 09:52:19,766 - INFO - Successfully loaded image for Worker
+2025-02-23 09:52:19,766 - INFO - Initializing screens
+2025-02-23 09:52:19,766 - INFO - Creating player at (400, 300)
+2025-02-23 09:52:19,772 - INFO - WorldMapScreen initialized
+2025-02-23 09:52:19,772 - INFO - Game initialization complete
+2025-02-23 09:52:19,772 - INFO - Starting game loop
+2025-02-23 09:52:21,266 - INFO - Creating bee of type: Queen
+2025-02-23 09:52:21,267 - INFO - Successfully loaded image for Queen
+2025-02-23 09:52:21,267 - INFO - Creating bee of type: Drone
+2025-02-23 09:52:21,267 - INFO - Successfully loaded image for Drone
+2025-02-23 09:52:21,267 - INFO - Creating bee of type: Drone
+2025-02-23 09:52:21,268 - INFO - Successfully loaded image for Drone
+2025-02-23 09:52:21,268 - INFO - Creating bee of type: Worker
+2025-02-23 09:52:21,268 - INFO - Successfully loaded image for Worker
+2025-02-23 09:52:21,268 - INFO - Creating bee of type: Worker
+2025-02-23 09:52:21,268 - INFO - Successfully loaded image for Worker
+2025-02-23 09:52:21,268 - INFO - Switching to screen: world_map
+2025-02-23 09:52:21,268 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,268 - INFO - Hive updated: Population=5.37, Honey=0.09
+2025-02-23 09:52:21,283 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,283 - INFO - Hive updated: Population=5.73, Honey=0.18
+2025-02-23 09:52:21,299 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,299 - INFO - Hive updated: Population=6.10, Honey=0.27
+2025-02-23 09:52:21,316 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,316 - INFO - Hive updated: Population=6.46, Honey=0.37
+2025-02-23 09:52:21,334 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,334 - INFO - Hive updated: Population=6.83, Honey=0.46
+2025-02-23 09:52:21,350 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,351 - INFO - Hive updated: Population=7.19, Honey=0.55
+2025-02-23 09:52:21,367 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,367 - INFO - Hive updated: Population=7.56, Honey=0.64
+2025-02-23 09:52:21,383 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,383 - INFO - Hive updated: Population=7.92, Honey=0.73
+2025-02-23 09:52:21,400 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,400 - INFO - Hive updated: Population=8.29, Honey=0.82
+2025-02-23 09:52:21,417 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,417 - INFO - Hive updated: Population=8.65, Honey=0.91
+2025-02-23 09:52:21,434 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,434 - INFO - Hive updated: Population=9.02, Honey=1.01
+2025-02-23 09:52:21,451 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,452 - INFO - Hive updated: Population=9.38, Honey=1.10
+2025-02-23 09:52:21,467 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,468 - INFO - Hive updated: Population=9.75, Honey=1.19
+2025-02-23 09:52:21,484 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,485 - INFO - Hive updated: Population=10.11, Honey=1.28
+2025-02-23 09:52:21,501 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,502 - INFO - Hive updated: Population=10.48, Honey=1.37
+2025-02-23 09:52:21,518 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,519 - INFO - Hive updated: Population=10.84, Honey=1.46
+2025-02-23 09:52:21,535 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,535 - INFO - Hive updated: Population=11.21, Honey=1.56
+2025-02-23 09:52:21,552 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,553 - INFO - Hive updated: Population=11.57, Honey=1.65
+2025-02-23 09:52:21,569 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,570 - INFO - Hive updated: Population=11.94, Honey=1.74
+2025-02-23 09:52:21,586 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,586 - INFO - Hive updated: Population=12.30, Honey=1.83
+2025-02-23 09:52:21,602 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,602 - INFO - Hive updated: Population=12.67, Honey=1.92
+2025-02-23 09:52:21,618 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,618 - INFO - Hive updated: Population=13.03, Honey=2.01
+2025-02-23 09:52:21,635 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,635 - INFO - Hive updated: Population=13.40, Honey=2.10
+2025-02-23 09:52:21,650 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,651 - INFO - Hive updated: Population=13.77, Honey=2.20
+2025-02-23 09:52:21,667 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,667 - INFO - Hive updated: Population=14.13, Honey=2.29
+2025-02-23 09:52:21,683 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,683 - INFO - Hive updated: Population=14.50, Honey=2.38
+2025-02-23 09:52:21,700 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,701 - INFO - Hive updated: Population=14.86, Honey=2.47
+2025-02-23 09:52:21,717 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,717 - INFO - Hive updated: Population=15.23, Honey=2.56
+2025-02-23 09:52:21,734 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,734 - INFO - Hive updated: Population=15.59, Honey=2.65
+2025-02-23 09:52:21,751 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,751 - INFO - Hive updated: Population=15.96, Honey=2.74
+2025-02-23 09:52:21,768 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,769 - INFO - Hive updated: Population=16.32, Honey=2.84
+2025-02-23 09:52:21,785 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,785 - INFO - Hive updated: Population=16.69, Honey=2.93
+2025-02-23 09:52:21,802 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,802 - INFO - Hive updated: Population=17.05, Honey=3.02
+2025-02-23 09:52:21,819 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,820 - INFO - Hive updated: Population=17.42, Honey=3.11
+2025-02-23 09:52:21,836 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,837 - INFO - Hive updated: Population=17.78, Honey=3.20
+2025-02-23 09:52:21,853 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,854 - INFO - Hive updated: Population=18.15, Honey=3.29
+2025-02-23 09:52:21,869 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,870 - INFO - Hive updated: Population=18.51, Honey=3.38
+2025-02-23 09:52:21,886 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,886 - INFO - Hive updated: Population=18.88, Honey=3.48
+2025-02-23 09:52:21,903 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,903 - INFO - Hive updated: Population=19.24, Honey=3.57
+2025-02-23 09:52:21,920 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,920 - INFO - Hive updated: Population=19.61, Honey=3.66
+2025-02-23 09:52:21,936 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,936 - INFO - Hive updated: Population=19.97, Honey=3.75
+2025-02-23 09:52:21,952 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,952 - INFO - Hive updated: Population=20.34, Honey=3.84
+2025-02-23 09:52:21,969 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,969 - INFO - Hive updated: Population=20.70, Honey=3.93
+2025-02-23 09:52:21,985 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:21,985 - INFO - Hive updated: Population=21.07, Honey=4.03
+2025-02-23 09:52:22,001 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,002 - INFO - Hive updated: Population=21.44, Honey=4.12
+2025-02-23 09:52:22,018 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,019 - INFO - Hive updated: Population=21.80, Honey=4.21
+2025-02-23 09:52:22,034 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,035 - INFO - Hive updated: Population=22.17, Honey=4.30
+2025-02-23 09:52:22,052 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,053 - INFO - Hive updated: Population=22.53, Honey=4.39
+2025-02-23 09:52:22,069 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,070 - INFO - Hive updated: Population=22.90, Honey=4.48
+2025-02-23 09:52:22,086 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,087 - INFO - Hive updated: Population=23.26, Honey=4.57
+2025-02-23 09:52:22,103 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,104 - INFO - Hive updated: Population=23.63, Honey=4.67
+2025-02-23 09:52:22,119 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,120 - INFO - Hive updated: Population=23.99, Honey=4.76
+2025-02-23 09:52:22,136 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,136 - INFO - Hive updated: Population=24.36, Honey=4.85
+2025-02-23 09:52:22,153 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,153 - INFO - Hive updated: Population=24.72, Honey=4.94
+2025-02-23 09:52:22,170 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,170 - INFO - Hive updated: Population=25.09, Honey=5.03
+2025-02-23 09:52:22,187 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,187 - INFO - Hive updated: Population=25.45, Honey=5.12
+2025-02-23 09:52:22,204 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,205 - INFO - Hive updated: Population=25.82, Honey=5.21
+2025-02-23 09:52:22,221 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,221 - INFO - Hive updated: Population=26.18, Honey=5.31
+2025-02-23 09:52:22,238 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,238 - INFO - Hive updated: Population=26.55, Honey=5.40
+2025-02-23 09:52:22,255 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,255 - INFO - Hive updated: Population=26.91, Honey=5.49
+2025-02-23 09:52:22,272 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,272 - INFO - Hive updated: Population=27.28, Honey=5.58
+2025-02-23 09:52:22,288 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,288 - INFO - Hive updated: Population=27.64, Honey=5.67
+2025-02-23 09:52:22,305 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,305 - INFO - Hive updated: Population=28.01, Honey=5.76
+2025-02-23 09:52:22,322 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,322 - INFO - Hive updated: Population=28.37, Honey=5.85
+2025-02-23 09:52:22,338 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,338 - INFO - Hive updated: Population=28.74, Honey=5.95
+2025-02-23 09:52:22,355 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,356 - INFO - Hive updated: Population=29.10, Honey=6.04
+2025-02-23 09:52:22,372 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,372 - INFO - Hive updated: Population=29.47, Honey=6.13
+2025-02-23 09:52:22,388 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,388 - INFO - Hive updated: Population=29.84, Honey=6.22
+2025-02-23 09:52:22,405 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,406 - INFO - Hive updated: Population=30.20, Honey=6.31
+2025-02-23 09:52:22,423 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,424 - INFO - Hive updated: Population=30.57, Honey=6.40
+2025-02-23 09:52:22,440 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,440 - INFO - Hive updated: Population=30.93, Honey=6.50
+2025-02-23 09:52:22,456 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,456 - INFO - Hive updated: Population=31.30, Honey=6.59
+2025-02-23 09:52:22,473 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,474 - INFO - Hive updated: Population=31.66, Honey=6.68
+2025-02-23 09:52:22,490 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,491 - INFO - Hive updated: Population=32.03, Honey=6.77
+2025-02-23 09:52:22,508 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,508 - INFO - Hive updated: Population=32.39, Honey=6.86
+2025-02-23 09:52:22,524 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,525 - INFO - Hive updated: Population=32.76, Honey=6.95
+2025-02-23 09:52:22,541 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,541 - INFO - Hive updated: Population=33.12, Honey=7.04
+2025-02-23 09:52:22,557 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,558 - INFO - Hive updated: Population=33.49, Honey=7.14
+2025-02-23 09:52:22,574 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,574 - INFO - Hive updated: Population=33.85, Honey=7.23
+2025-02-23 09:52:22,592 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,592 - INFO - Hive updated: Population=34.22, Honey=7.32
+2025-02-23 09:52:22,608 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,609 - INFO - Hive updated: Population=34.58, Honey=7.41
+2025-02-23 09:52:22,625 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,625 - INFO - Hive updated: Population=34.95, Honey=7.50
+2025-02-23 09:52:22,641 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,642 - INFO - Hive updated: Population=35.31, Honey=7.59
+2025-02-23 09:52:22,658 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,658 - INFO - Hive updated: Population=35.68, Honey=7.68
+2025-02-23 09:52:22,674 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,675 - INFO - Hive updated: Population=36.04, Honey=7.78
+2025-02-23 09:52:22,691 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,691 - INFO - Hive updated: Population=36.41, Honey=7.87
+2025-02-23 09:52:22,708 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,708 - INFO - Hive updated: Population=36.77, Honey=7.96
+2025-02-23 09:52:22,725 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,725 - INFO - Hive updated: Population=37.14, Honey=8.05
+2025-02-23 09:52:22,742 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,742 - INFO - Hive updated: Population=37.50, Honey=8.14
+2025-02-23 09:52:22,758 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,759 - INFO - Hive updated: Population=37.87, Honey=8.23
+2025-02-23 09:52:22,774 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,775 - INFO - Hive updated: Population=38.24, Honey=8.32
+2025-02-23 09:52:22,790 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,790 - INFO - Hive updated: Population=38.60, Honey=8.42
+2025-02-23 09:52:22,806 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,806 - INFO - Hive updated: Population=38.97, Honey=8.51
+2025-02-23 09:52:22,823 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,824 - INFO - Hive updated: Population=39.33, Honey=8.60
+2025-02-23 09:52:22,839 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,840 - INFO - Hive updated: Population=39.70, Honey=8.69
+2025-02-23 09:52:22,857 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,858 - INFO - Hive updated: Population=40.06, Honey=8.78
+2025-02-23 09:52:22,873 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,874 - INFO - Hive updated: Population=40.43, Honey=8.87
+2025-02-23 09:52:22,890 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,890 - INFO - Hive updated: Population=40.79, Honey=8.97
+2025-02-23 09:52:22,906 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,907 - INFO - Hive updated: Population=41.16, Honey=9.06
+2025-02-23 09:52:22,923 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,924 - INFO - Hive updated: Population=41.52, Honey=9.15
+2025-02-23 09:52:22,940 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,940 - INFO - Hive updated: Population=41.89, Honey=9.24
+2025-02-23 09:52:22,957 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,957 - INFO - Hive updated: Population=42.25, Honey=9.33
+2025-02-23 09:52:22,972 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,973 - INFO - Hive updated: Population=42.62, Honey=9.42
+2025-02-23 09:52:22,988 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:22,989 - INFO - Hive updated: Population=42.98, Honey=9.51
+2025-02-23 09:52:23,005 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,005 - INFO - Hive updated: Population=43.35, Honey=9.61
+2025-02-23 09:52:23,022 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,022 - INFO - Hive updated: Population=43.71, Honey=9.70
+2025-02-23 09:52:23,039 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,039 - INFO - Hive updated: Population=44.08, Honey=9.79
+2025-02-23 09:52:23,055 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,056 - INFO - Hive updated: Population=44.44, Honey=9.88
+2025-02-23 09:52:23,072 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,072 - INFO - Hive updated: Population=44.81, Honey=9.97
+2025-02-23 09:52:23,090 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,090 - INFO - Hive updated: Population=45.17, Honey=10.06
+2025-02-23 09:52:23,105 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,106 - INFO - Hive updated: Population=45.54, Honey=10.15
+2025-02-23 09:52:23,121 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,121 - INFO - Hive updated: Population=45.90, Honey=10.25
+2025-02-23 09:52:23,138 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,139 - INFO - Hive updated: Population=46.27, Honey=10.34
+2025-02-23 09:52:23,154 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,155 - INFO - Hive updated: Population=46.64, Honey=10.43
+2025-02-23 09:52:23,171 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,171 - INFO - Hive updated: Population=47.00, Honey=10.52
+2025-02-23 09:52:23,187 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,187 - INFO - Hive updated: Population=47.37, Honey=10.61
+2025-02-23 09:52:23,204 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,204 - INFO - Hive updated: Population=47.73, Honey=10.70
+2025-02-23 09:52:23,220 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,220 - INFO - Hive updated: Population=48.10, Honey=10.79
+2025-02-23 09:52:23,237 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,237 - INFO - Hive updated: Population=48.46, Honey=10.89
+2025-02-23 09:52:23,252 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,253 - INFO - Hive updated: Population=48.83, Honey=10.98
+2025-02-23 09:52:23,269 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,269 - INFO - Hive updated: Population=49.19, Honey=11.07
+2025-02-23 09:52:23,285 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,285 - INFO - Hive updated: Population=49.56, Honey=11.16
+2025-02-23 09:52:23,302 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,302 - INFO - Hive updated: Population=49.92, Honey=11.25
+2025-02-23 09:52:23,319 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,319 - INFO - Hive updated: Population=50.29, Honey=11.34
+2025-02-23 09:52:23,336 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,337 - INFO - Hive updated: Population=50.65, Honey=11.44
+2025-02-23 09:52:23,353 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,354 - INFO - Hive updated: Population=51.02, Honey=11.53
+2025-02-23 09:52:23,370 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,371 - INFO - Hive updated: Population=51.38, Honey=11.62
+2025-02-23 09:52:23,387 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,387 - INFO - Hive updated: Population=51.75, Honey=11.71
+2025-02-23 09:52:23,404 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,405 - INFO - Hive updated: Population=52.11, Honey=11.80
+2025-02-23 09:52:23,421 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,421 - INFO - Hive updated: Population=52.48, Honey=11.89
+2025-02-23 09:52:23,438 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,438 - INFO - Hive updated: Population=52.84, Honey=11.98
+2025-02-23 09:52:23,453 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,453 - INFO - Hive updated: Population=53.21, Honey=12.08
+2025-02-23 09:52:23,469 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,470 - INFO - Hive updated: Population=53.57, Honey=12.17
+2025-02-23 09:52:23,485 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,485 - INFO - Hive updated: Population=53.94, Honey=12.26
+2025-02-23 09:52:23,502 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,502 - INFO - Hive updated: Population=54.31, Honey=12.35
+2025-02-23 09:52:23,518 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,518 - INFO - Hive updated: Population=54.67, Honey=12.44
+2025-02-23 09:52:23,535 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,535 - INFO - Hive updated: Population=55.04, Honey=12.53
+2025-02-23 09:52:23,553 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,553 - INFO - Hive updated: Population=55.40, Honey=12.62
+2025-02-23 09:52:23,569 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,569 - INFO - Hive updated: Population=55.77, Honey=12.72
+2025-02-23 09:52:23,585 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,586 - INFO - Hive updated: Population=56.13, Honey=12.81
+2025-02-23 09:52:23,602 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,603 - INFO - Hive updated: Population=56.50, Honey=12.90
+2025-02-23 09:52:23,620 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,620 - INFO - Hive updated: Population=56.86, Honey=12.99
+2025-02-23 09:52:23,637 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,637 - INFO - Hive updated: Population=57.23, Honey=13.08
+2025-02-23 09:52:23,654 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,655 - INFO - Hive updated: Population=57.59, Honey=13.17
+2025-02-23 09:52:23,670 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,671 - INFO - Hive updated: Population=57.96, Honey=13.26
+2025-02-23 09:52:23,687 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,687 - INFO - Hive updated: Population=58.32, Honey=13.36
+2025-02-23 09:52:23,704 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,705 - INFO - Hive updated: Population=58.69, Honey=13.45
+2025-02-23 09:52:23,721 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,721 - INFO - Hive updated: Population=59.05, Honey=13.54
+2025-02-23 09:52:23,739 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,739 - INFO - Hive updated: Population=59.42, Honey=13.63
+2025-02-23 09:52:23,755 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,755 - INFO - Hive updated: Population=59.78, Honey=13.72
+2025-02-23 09:52:23,771 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,771 - INFO - Hive updated: Population=60.15, Honey=13.81
+2025-02-23 09:52:23,787 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,788 - INFO - Hive updated: Population=60.51, Honey=13.91
+2025-02-23 09:52:23,804 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,805 - INFO - Hive updated: Population=60.88, Honey=14.00
+2025-02-23 09:52:23,821 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,821 - INFO - Hive updated: Population=61.24, Honey=14.09
+2025-02-23 09:52:23,838 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,839 - INFO - Hive updated: Population=61.61, Honey=14.18
+2025-02-23 09:52:23,855 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,856 - INFO - Hive updated: Population=61.97, Honey=14.27
+2025-02-23 09:52:23,871 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,872 - INFO - Hive updated: Population=62.34, Honey=14.36
+2025-02-23 09:52:23,888 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,888 - INFO - Hive updated: Population=62.71, Honey=14.45
+2025-02-23 09:52:23,904 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,904 - INFO - Hive updated: Population=63.07, Honey=14.55
+2025-02-23 09:52:23,921 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,921 - INFO - Hive updated: Population=63.44, Honey=14.64
+2025-02-23 09:52:23,938 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,939 - INFO - Hive updated: Population=63.80, Honey=14.73
+2025-02-23 09:52:23,954 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,954 - INFO - Hive updated: Population=64.17, Honey=14.82
+2025-02-23 09:52:23,971 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,971 - INFO - Hive updated: Population=64.53, Honey=14.91
+2025-02-23 09:52:23,987 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:23,987 - INFO - Hive updated: Population=64.90, Honey=15.00
+2025-02-23 09:52:24,004 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,005 - INFO - Hive updated: Population=65.26, Honey=15.09
+2025-02-23 09:52:24,021 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,021 - INFO - Hive updated: Population=65.63, Honey=15.19
+2025-02-23 09:52:24,036 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,037 - INFO - Hive updated: Population=65.99, Honey=15.28
+2025-02-23 09:52:24,053 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,054 - INFO - Hive updated: Population=66.36, Honey=15.37
+2025-02-23 09:52:24,070 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,071 - INFO - Hive updated: Population=66.72, Honey=15.46
+2025-02-23 09:52:24,088 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,088 - INFO - Hive updated: Population=67.09, Honey=15.55
+2025-02-23 09:52:24,104 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,104 - INFO - Hive updated: Population=67.45, Honey=15.64
+2025-02-23 09:52:24,120 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,120 - INFO - Hive updated: Population=67.82, Honey=15.73
+2025-02-23 09:52:24,139 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,139 - INFO - Hive updated: Population=68.18, Honey=15.83
+2025-02-23 09:52:24,153 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,154 - INFO - Hive updated: Population=68.55, Honey=15.92
+2025-02-23 09:52:24,169 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,169 - INFO - Hive updated: Population=68.91, Honey=16.01
+2025-02-23 09:52:24,185 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,185 - INFO - Hive updated: Population=69.28, Honey=16.10
+2025-02-23 09:52:24,202 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,202 - INFO - Hive updated: Population=69.64, Honey=16.19
+2025-02-23 09:52:24,219 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,220 - INFO - Hive updated: Population=70.01, Honey=16.28
+2025-02-23 09:52:24,235 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,236 - INFO - Hive updated: Population=70.37, Honey=16.38
+2025-02-23 09:52:24,252 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,253 - INFO - Hive updated: Population=70.74, Honey=16.47
+2025-02-23 09:52:24,270 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,270 - INFO - Hive updated: Population=71.11, Honey=16.56
+2025-02-23 09:52:24,285 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,286 - INFO - Hive updated: Population=71.47, Honey=16.65
+2025-02-23 09:52:24,302 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,302 - INFO - Hive updated: Population=71.84, Honey=16.74
+2025-02-23 09:52:24,319 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,320 - INFO - Hive updated: Population=72.20, Honey=16.83
+2025-02-23 09:52:24,336 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,336 - INFO - Hive updated: Population=72.57, Honey=16.92
+2025-02-23 09:52:24,353 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,353 - INFO - Hive updated: Population=72.93, Honey=17.02
+2025-02-23 09:52:24,370 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,370 - INFO - Hive updated: Population=73.30, Honey=17.11
+2025-02-23 09:52:24,386 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,387 - INFO - Hive updated: Population=73.66, Honey=17.20
+2025-02-23 09:52:24,402 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,403 - INFO - Hive updated: Population=74.03, Honey=17.29
+2025-02-23 09:52:24,422 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,423 - INFO - Hive updated: Population=74.39, Honey=17.38
+2025-02-23 09:52:24,436 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,437 - INFO - Hive updated: Population=74.76, Honey=17.47
+2025-02-23 09:52:24,453 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,453 - INFO - Hive updated: Population=75.12, Honey=17.56
+2025-02-23 09:52:24,470 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,471 - INFO - Hive updated: Population=75.49, Honey=17.66
+2025-02-23 09:52:24,487 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,487 - INFO - Hive updated: Population=75.85, Honey=17.75
+2025-02-23 09:52:24,503 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,504 - INFO - Hive updated: Population=76.22, Honey=17.84
+2025-02-23 09:52:24,520 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,521 - INFO - Hive updated: Population=76.58, Honey=17.93
+2025-02-23 09:52:24,537 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,538 - INFO - Hive updated: Population=76.95, Honey=18.02
+2025-02-23 09:52:24,555 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,555 - INFO - Hive updated: Population=77.31, Honey=18.11
+2025-02-23 09:52:24,570 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,571 - INFO - Hive updated: Population=77.68, Honey=18.20
+2025-02-23 09:52:24,588 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,588 - INFO - Hive updated: Population=78.04, Honey=18.30
+2025-02-23 09:52:24,603 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,604 - INFO - Hive updated: Population=78.41, Honey=18.39
+2025-02-23 09:52:24,620 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,621 - INFO - Hive updated: Population=78.78, Honey=18.48
+2025-02-23 09:52:24,638 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,638 - INFO - Hive updated: Population=79.14, Honey=18.57
+2025-02-23 09:52:24,653 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,654 - INFO - Hive updated: Population=79.51, Honey=18.66
+2025-02-23 09:52:24,670 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,671 - INFO - Hive updated: Population=79.87, Honey=18.75
+2025-02-23 09:52:24,687 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,687 - INFO - Hive updated: Population=80.24, Honey=18.85
+2025-02-23 09:52:24,703 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,703 - INFO - Hive updated: Population=80.60, Honey=18.94
+2025-02-23 09:52:24,720 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,721 - INFO - Hive updated: Population=80.97, Honey=19.03
+2025-02-23 09:52:24,738 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,738 - INFO - Hive updated: Population=81.33, Honey=19.12
+2025-02-23 09:52:24,754 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,754 - INFO - Hive updated: Population=81.70, Honey=19.21
+2025-02-23 09:52:24,771 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,771 - INFO - Hive updated: Population=82.06, Honey=19.30
+2025-02-23 09:52:24,787 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,787 - INFO - Hive updated: Population=82.43, Honey=19.39
+2025-02-23 09:52:24,803 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,804 - INFO - Hive updated: Population=82.79, Honey=19.49
+2025-02-23 09:52:24,820 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,821 - INFO - Hive updated: Population=83.16, Honey=19.58
+2025-02-23 09:52:24,837 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,837 - INFO - Hive updated: Population=83.52, Honey=19.67
+2025-02-23 09:52:24,853 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,853 - INFO - Hive updated: Population=83.89, Honey=19.76
+2025-02-23 09:52:24,871 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,872 - INFO - Hive updated: Population=84.25, Honey=19.85
+2025-02-23 09:52:24,887 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,888 - INFO - Hive updated: Population=84.62, Honey=19.94
+2025-02-23 09:52:24,904 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,904 - INFO - Hive updated: Population=84.98, Honey=20.03
+2025-02-23 09:52:24,921 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,922 - INFO - Hive updated: Population=85.35, Honey=20.13
+2025-02-23 09:52:24,937 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,937 - INFO - Hive updated: Population=85.71, Honey=20.22
+2025-02-23 09:52:24,954 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,954 - INFO - Hive updated: Population=86.08, Honey=20.31
+2025-02-23 09:52:24,971 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,972 - INFO - Hive updated: Population=86.44, Honey=20.40
+2025-02-23 09:52:24,988 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:24,988 - INFO - Hive updated: Population=86.81, Honey=20.49
+2025-02-23 09:52:25,005 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,005 - INFO - Hive updated: Population=87.18, Honey=20.58
+2025-02-23 09:52:25,022 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,022 - INFO - Hive updated: Population=87.54, Honey=20.67
+2025-02-23 09:52:25,037 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,038 - INFO - Hive updated: Population=87.91, Honey=20.77
+2025-02-23 09:52:25,056 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,057 - INFO - Hive updated: Population=88.27, Honey=20.86
+2025-02-23 09:52:25,073 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,073 - INFO - Hive updated: Population=88.64, Honey=20.95
+2025-02-23 09:52:25,089 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,089 - INFO - Hive updated: Population=89.00, Honey=21.04
+2025-02-23 09:52:25,106 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,107 - INFO - Hive updated: Population=89.37, Honey=21.13
+2025-02-23 09:52:25,123 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,123 - INFO - Hive updated: Population=89.73, Honey=21.22
+2025-02-23 09:52:25,139 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,139 - INFO - Hive updated: Population=90.10, Honey=21.32
+2025-02-23 09:52:25,156 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,156 - INFO - Hive updated: Population=90.46, Honey=21.41
+2025-02-23 09:52:25,172 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,172 - INFO - Hive updated: Population=90.83, Honey=21.50
+2025-02-23 09:52:25,189 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,189 - INFO - Hive updated: Population=91.19, Honey=21.59
+2025-02-23 09:52:25,206 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,206 - INFO - Hive updated: Population=91.56, Honey=21.68
+2025-02-23 09:52:25,223 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,224 - INFO - Hive updated: Population=91.92, Honey=21.77
+2025-02-23 09:52:25,239 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,239 - INFO - Hive updated: Population=92.29, Honey=21.86
+2025-02-23 09:52:25,257 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,257 - INFO - Hive updated: Population=92.65, Honey=21.96
+2025-02-23 09:52:25,273 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,273 - INFO - Hive updated: Population=93.02, Honey=22.05
+2025-02-23 09:52:25,289 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,290 - INFO - Hive updated: Population=93.38, Honey=22.14
+2025-02-23 09:52:25,310 - INFO - Drone at (264.0289678915088, 394.68990579179604) successfully mated with Queen
+2025-02-23 09:52:25,310 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,310 - INFO - Hive updated: Population=93.85, Honey=22.23
+2025-02-23 09:52:25,323 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,324 - INFO - Hive updated: Population=94.21, Honey=22.32
+2025-02-23 09:52:25,342 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,342 - INFO - Hive updated: Population=94.58, Honey=22.41
+2025-02-23 09:52:25,356 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,357 - INFO - Hive updated: Population=94.94, Honey=22.50
+2025-02-23 09:52:25,372 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,372 - INFO - Hive updated: Population=95.31, Honey=22.60
+2025-02-23 09:52:25,389 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,390 - INFO - Hive updated: Population=95.68, Honey=22.69
+2025-02-23 09:52:25,406 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,406 - INFO - Hive updated: Population=96.04, Honey=22.78
+2025-02-23 09:52:25,423 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,424 - INFO - Hive updated: Population=96.41, Honey=22.87
+2025-02-23 09:52:25,440 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,441 - INFO - Hive updated: Population=96.77, Honey=22.96
+2025-02-23 09:52:25,459 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,459 - INFO - Hive updated: Population=97.14, Honey=23.05
+2025-02-23 09:52:25,474 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,474 - INFO - Hive updated: Population=97.50, Honey=23.14
+2025-02-23 09:52:25,490 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,491 - INFO - Hive updated: Population=97.87, Honey=23.24
+2025-02-23 09:52:25,507 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,507 - INFO - Hive updated: Population=98.23, Honey=23.33
+2025-02-23 09:52:25,523 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,524 - INFO - Hive updated: Population=98.60, Honey=23.42
+2025-02-23 09:52:25,542 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,543 - INFO - Hive updated: Population=98.96, Honey=23.51
+2025-02-23 09:52:25,556 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,556 - INFO - Hive updated: Population=99.33, Honey=23.60
+2025-02-23 09:52:25,573 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,574 - INFO - Hive updated: Population=99.69, Honey=23.69
+2025-02-23 09:52:25,590 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,591 - INFO - Hive updated: Population=100.06, Honey=23.79
+2025-02-23 09:52:25,606 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,607 - INFO - Hive updated: Population=100.42, Honey=23.88
+2025-02-23 09:52:25,623 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,624 - INFO - Hive updated: Population=100.79, Honey=23.97
+2025-02-23 09:52:25,642 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,642 - INFO - Hive updated: Population=101.15, Honey=24.06
+2025-02-23 09:52:25,659 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,659 - INFO - Hive updated: Population=101.52, Honey=24.15
+2025-02-23 09:52:25,675 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,675 - INFO - Hive updated: Population=101.88, Honey=24.24
+2025-02-23 09:52:25,691 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,691 - INFO - Hive updated: Population=102.25, Honey=24.33
+2025-02-23 09:52:25,707 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,707 - INFO - Hive updated: Population=102.61, Honey=24.43
+2025-02-23 09:52:25,724 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,724 - INFO - Hive updated: Population=102.98, Honey=24.52
+2025-02-23 09:52:25,742 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,742 - INFO - Hive updated: Population=103.34, Honey=24.61
+2025-02-23 09:52:25,757 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,757 - INFO - Hive updated: Population=103.71, Honey=24.70
+2025-02-23 09:52:25,773 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,774 - INFO - Hive updated: Population=104.08, Honey=24.79
+2025-02-23 09:52:25,790 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,791 - INFO - Hive updated: Population=104.44, Honey=24.88
+2025-02-23 09:52:25,808 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,808 - INFO - Hive updated: Population=104.81, Honey=24.97
+2025-02-23 09:52:25,824 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,825 - INFO - Hive updated: Population=105.17, Honey=25.07
+2025-02-23 09:52:25,842 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,843 - INFO - Hive updated: Population=105.54, Honey=25.16
+2025-02-23 09:52:25,857 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,857 - INFO - Hive updated: Population=105.90, Honey=25.25
+2025-02-23 09:52:25,874 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,874 - INFO - Hive updated: Population=106.27, Honey=25.34
+2025-02-23 09:52:25,892 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,892 - INFO - Hive updated: Population=106.63, Honey=25.43
+2025-02-23 09:52:25,908 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,909 - INFO - Hive updated: Population=107.00, Honey=25.52
+2025-02-23 09:52:25,923 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,924 - INFO - Hive updated: Population=107.36, Honey=25.61
+2025-02-23 09:52:25,940 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,941 - INFO - Hive updated: Population=107.73, Honey=25.71
+2025-02-23 09:52:25,956 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,957 - INFO - Hive updated: Population=108.09, Honey=25.80
+2025-02-23 09:52:25,973 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,973 - INFO - Hive updated: Population=108.46, Honey=25.89
+2025-02-23 09:52:25,990 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:25,990 - INFO - Hive updated: Population=108.82, Honey=25.98
+2025-02-23 09:52:26,005 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,006 - INFO - Hive updated: Population=109.19, Honey=26.07
+2025-02-23 09:52:26,022 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,022 - INFO - Hive updated: Population=109.55, Honey=26.16
+2025-02-23 09:52:26,039 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,039 - INFO - Hive updated: Population=109.92, Honey=26.26
+2025-02-23 09:52:26,055 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,056 - INFO - Hive updated: Population=110.28, Honey=26.35
+2025-02-23 09:52:26,070 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,071 - INFO - Hive updated: Population=110.65, Honey=26.44
+2025-02-23 09:52:26,087 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,088 - INFO - Hive updated: Population=111.01, Honey=26.53
+2025-02-23 09:52:26,103 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,104 - INFO - Hive updated: Population=111.38, Honey=26.62
+2025-02-23 09:52:26,120 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,121 - INFO - Hive updated: Population=111.75, Honey=26.71
+2025-02-23 09:52:26,137 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,138 - INFO - Hive updated: Population=112.11, Honey=26.80
+2025-02-23 09:52:26,153 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,153 - INFO - Hive updated: Population=112.48, Honey=26.90
+2025-02-23 09:52:26,169 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,170 - INFO - Hive updated: Population=112.84, Honey=26.99
+2025-02-23 09:52:26,186 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,186 - INFO - Hive updated: Population=113.21, Honey=27.08
+2025-02-23 09:52:26,203 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,204 - INFO - Hive updated: Population=113.57, Honey=27.17
+2025-02-23 09:52:26,220 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,220 - INFO - Hive updated: Population=113.94, Honey=27.26
+2025-02-23 09:52:26,236 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,237 - INFO - Hive updated: Population=114.30, Honey=27.35
+2025-02-23 09:52:26,253 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,254 - INFO - Hive updated: Population=114.67, Honey=27.44
+2025-02-23 09:52:26,270 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,271 - INFO - Hive updated: Population=115.03, Honey=27.54
+2025-02-23 09:52:26,287 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,288 - INFO - Hive updated: Population=115.40, Honey=27.63
+2025-02-23 09:52:26,305 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,305 - INFO - Hive updated: Population=115.76, Honey=27.72
+2025-02-23 09:52:26,321 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,322 - INFO - Hive updated: Population=116.13, Honey=27.81
+2025-02-23 09:52:26,340 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,340 - INFO - Hive updated: Population=116.49, Honey=27.90
+2025-02-23 09:52:26,355 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,356 - INFO - Hive updated: Population=116.86, Honey=27.99
+2025-02-23 09:52:26,372 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,373 - INFO - Hive updated: Population=117.22, Honey=28.08
+2025-02-23 09:52:26,389 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,389 - INFO - Hive updated: Population=117.59, Honey=28.18
+2025-02-23 09:52:26,405 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,406 - INFO - Hive updated: Population=117.95, Honey=28.27
+2025-02-23 09:52:26,423 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,423 - INFO - Hive updated: Population=118.32, Honey=28.36
+2025-02-23 09:52:26,440 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,440 - INFO - Hive updated: Population=118.68, Honey=28.45
+2025-02-23 09:52:26,455 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,456 - INFO - Hive updated: Population=119.05, Honey=28.54
+2025-02-23 09:52:26,472 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,472 - INFO - Hive updated: Population=119.41, Honey=28.63
+2025-02-23 09:52:26,489 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,490 - INFO - Hive updated: Population=119.78, Honey=28.73
+2025-02-23 09:52:26,506 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,506 - INFO - Hive updated: Population=120.15, Honey=28.82
+2025-02-23 09:52:26,523 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,523 - INFO - Hive updated: Population=120.51, Honey=28.91
+2025-02-23 09:52:26,540 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,541 - INFO - Hive updated: Population=120.88, Honey=29.00
+2025-02-23 09:52:26,556 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,557 - INFO - Hive updated: Population=121.24, Honey=29.09
+2025-02-23 09:52:26,573 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,574 - INFO - Hive updated: Population=121.61, Honey=29.18
+2025-02-23 09:52:26,590 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,591 - INFO - Hive updated: Population=121.97, Honey=29.27
+2025-02-23 09:52:26,608 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,608 - INFO - Hive updated: Population=122.34, Honey=29.37
+2025-02-23 09:52:26,624 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,625 - INFO - Hive updated: Population=122.70, Honey=29.46
+2025-02-23 09:52:26,641 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,641 - INFO - Hive updated: Population=123.07, Honey=29.55
+2025-02-23 09:52:26,659 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,659 - INFO - Hive updated: Population=123.43, Honey=29.64
+2025-02-23 09:52:26,676 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,676 - INFO - Hive updated: Population=123.80, Honey=29.73
+2025-02-23 09:52:26,692 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,692 - INFO - Hive updated: Population=124.16, Honey=29.82
+2025-02-23 09:52:26,708 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,708 - INFO - Hive updated: Population=124.53, Honey=29.91
+2025-02-23 09:52:26,725 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,726 - INFO - Hive updated: Population=124.89, Honey=30.01
+2025-02-23 09:52:26,741 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,741 - INFO - Hive updated: Population=125.26, Honey=30.10
+2025-02-23 09:52:26,758 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,758 - INFO - Hive updated: Population=125.62, Honey=30.19
+2025-02-23 09:52:26,775 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,775 - INFO - Hive updated: Population=125.99, Honey=30.28
+2025-02-23 09:52:26,791 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,791 - INFO - Hive updated: Population=126.35, Honey=30.37
+2025-02-23 09:52:26,808 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,809 - INFO - Hive updated: Population=126.72, Honey=30.46
+2025-02-23 09:52:26,826 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,826 - INFO - Hive updated: Population=127.08, Honey=30.55
+2025-02-23 09:52:26,842 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,842 - INFO - Hive updated: Population=127.45, Honey=30.65
+2025-02-23 09:52:26,858 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,859 - INFO - Hive updated: Population=127.81, Honey=30.74
+2025-02-23 09:52:26,875 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,876 - INFO - Hive updated: Population=128.18, Honey=30.83
+2025-02-23 09:52:26,893 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,894 - INFO - Hive updated: Population=128.55, Honey=30.92
+2025-02-23 09:52:26,910 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,911 - INFO - Hive updated: Population=128.91, Honey=31.01
+2025-02-23 09:52:26,927 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,928 - INFO - Hive updated: Population=129.28, Honey=31.10
+2025-02-23 09:52:26,944 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,945 - INFO - Hive updated: Population=129.64, Honey=31.20
+2025-02-23 09:52:26,960 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,961 - INFO - Hive updated: Population=130.01, Honey=31.29
+2025-02-23 09:52:26,977 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,978 - INFO - Hive updated: Population=130.37, Honey=31.38
+2025-02-23 09:52:26,994 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:26,995 - INFO - Hive updated: Population=130.74, Honey=31.47
+2025-02-23 09:52:27,010 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,011 - INFO - Hive updated: Population=131.10, Honey=31.56
+2025-02-23 09:52:27,027 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,027 - INFO - Hive updated: Population=131.47, Honey=31.65
+2025-02-23 09:52:27,043 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,044 - INFO - Hive updated: Population=131.83, Honey=31.74
+2025-02-23 09:52:27,060 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,060 - INFO - Hive updated: Population=132.20, Honey=31.84
+2025-02-23 09:52:27,075 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,076 - INFO - Hive updated: Population=132.56, Honey=31.93
+2025-02-23 09:52:27,092 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,092 - INFO - Hive updated: Population=132.93, Honey=32.02
+2025-02-23 09:52:27,109 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,109 - INFO - Hive updated: Population=133.29, Honey=32.11
+2025-02-23 09:52:27,127 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,127 - INFO - Hive updated: Population=133.66, Honey=32.20
+2025-02-23 09:52:27,143 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,143 - INFO - Hive updated: Population=134.02, Honey=32.29
+2025-02-23 09:52:27,160 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,160 - INFO - Hive updated: Population=134.39, Honey=32.38
+2025-02-23 09:52:27,176 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,177 - INFO - Hive updated: Population=134.75, Honey=32.48
+2025-02-23 09:52:27,193 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,193 - INFO - Hive updated: Population=135.12, Honey=32.57
+2025-02-23 09:52:27,209 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,209 - INFO - Hive updated: Population=135.48, Honey=32.66
+2025-02-23 09:52:27,224 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,225 - INFO - Hive updated: Population=135.85, Honey=32.75
+2025-02-23 09:52:27,240 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,241 - INFO - Hive updated: Population=136.22, Honey=32.84
+2025-02-23 09:52:27,257 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,257 - INFO - Hive updated: Population=136.58, Honey=32.93
+2025-02-23 09:52:27,276 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,276 - INFO - Hive updated: Population=136.95, Honey=33.02
+2025-02-23 09:52:27,291 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,291 - INFO - Hive updated: Population=137.31, Honey=33.12
+2025-02-23 09:52:27,307 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,308 - INFO - Hive updated: Population=137.68, Honey=33.21
+2025-02-23 09:52:27,324 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,325 - INFO - Hive updated: Population=138.04, Honey=33.30
+2025-02-23 09:52:27,341 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,341 - INFO - Hive updated: Population=138.41, Honey=33.39
+2025-02-23 09:52:27,358 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,358 - INFO - Hive updated: Population=138.77, Honey=33.48
+2025-02-23 09:52:27,374 - INFO - Drone at (336.8734553347843, 285.66924689023654) successfully mated with Queen
+2025-02-23 09:52:27,374 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,375 - INFO - Hive updated: Population=139.24, Honey=33.57
+2025-02-23 09:52:27,390 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,391 - INFO - Hive updated: Population=139.60, Honey=33.67
+2025-02-23 09:52:27,407 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,408 - INFO - Hive updated: Population=139.97, Honey=33.76
+2025-02-23 09:52:27,424 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,425 - INFO - Hive updated: Population=140.33, Honey=33.85
+2025-02-23 09:52:27,440 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,440 - INFO - Hive updated: Population=140.70, Honey=33.94
+2025-02-23 09:52:27,456 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,456 - INFO - Hive updated: Population=141.06, Honey=34.03
+2025-02-23 09:52:27,472 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,472 - INFO - Hive updated: Population=141.43, Honey=34.12
+2025-02-23 09:52:27,487 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,488 - INFO - Hive updated: Population=141.79, Honey=34.21
+2025-02-23 09:52:27,503 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,504 - INFO - Hive updated: Population=142.16, Honey=34.31
+2025-02-23 09:52:27,520 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,520 - INFO - Hive updated: Population=142.52, Honey=34.40
+2025-02-23 09:52:27,536 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,537 - INFO - Hive updated: Population=142.89, Honey=34.49
+2025-02-23 09:52:27,553 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,554 - INFO - Hive updated: Population=143.25, Honey=34.58
+2025-02-23 09:52:27,571 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,571 - INFO - Hive updated: Population=143.62, Honey=34.67
+2025-02-23 09:52:27,587 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,588 - INFO - Hive updated: Population=143.98, Honey=34.76
+2025-02-23 09:52:27,607 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,607 - INFO - Hive updated: Population=144.35, Honey=34.85
+2025-02-23 09:52:27,622 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,622 - INFO - Hive updated: Population=144.72, Honey=34.95
+2025-02-23 09:52:27,637 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,637 - INFO - Hive updated: Population=145.08, Honey=35.04
+2025-02-23 09:52:27,653 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,654 - INFO - Hive updated: Population=145.45, Honey=35.13
+2025-02-23 09:52:27,669 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,670 - INFO - Hive updated: Population=145.81, Honey=35.22
+2025-02-23 09:52:27,686 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,686 - INFO - Hive updated: Population=146.18, Honey=35.31
+2025-02-23 09:52:27,703 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,703 - INFO - Hive updated: Population=146.54, Honey=35.40
+2025-02-23 09:52:27,719 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,720 - INFO - Hive updated: Population=146.91, Honey=35.49
+2025-02-23 09:52:27,736 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,737 - INFO - Hive updated: Population=147.27, Honey=35.59
+2025-02-23 09:52:27,753 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,753 - INFO - Hive updated: Population=147.64, Honey=35.68
+2025-02-23 09:52:27,770 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,770 - INFO - Hive updated: Population=148.00, Honey=35.77
+2025-02-23 09:52:27,786 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,787 - INFO - Hive updated: Population=148.37, Honey=35.86
+2025-02-23 09:52:27,803 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,804 - INFO - Hive updated: Population=148.73, Honey=35.95
+2025-02-23 09:52:27,820 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,820 - INFO - Hive updated: Population=149.10, Honey=36.04
+2025-02-23 09:52:27,835 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,836 - INFO - Hive updated: Population=149.46, Honey=36.14
+2025-02-23 09:52:27,853 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,853 - INFO - Hive updated: Population=149.83, Honey=36.23
+2025-02-23 09:52:27,869 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,870 - INFO - Hive updated: Population=150.19, Honey=36.32
+2025-02-23 09:52:27,886 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,887 - INFO - Hive updated: Population=150.56, Honey=36.41
+2025-02-23 09:52:27,903 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,903 - INFO - Hive updated: Population=150.92, Honey=36.50
+2025-02-23 09:52:27,920 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,920 - INFO - Hive updated: Population=151.29, Honey=36.59
+2025-02-23 09:52:27,937 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,938 - INFO - Hive updated: Population=151.65, Honey=36.68
+2025-02-23 09:52:27,954 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,955 - INFO - Hive updated: Population=152.02, Honey=36.78
+2025-02-23 09:52:27,971 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,972 - INFO - Hive updated: Population=152.38, Honey=36.87
+2025-02-23 09:52:27,989 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:27,989 - INFO - Hive updated: Population=152.75, Honey=36.96
+2025-02-23 09:52:28,004 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,005 - INFO - Hive updated: Population=153.12, Honey=37.05
+2025-02-23 09:52:28,020 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,021 - INFO - Hive updated: Population=153.48, Honey=37.14
+2025-02-23 09:52:28,037 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,037 - INFO - Hive updated: Population=153.85, Honey=37.23
+2025-02-23 09:52:28,054 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,055 - INFO - Hive updated: Population=154.21, Honey=37.32
+2025-02-23 09:52:28,071 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,072 - INFO - Hive updated: Population=154.58, Honey=37.42
+2025-02-23 09:52:28,087 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,088 - INFO - Hive updated: Population=154.94, Honey=37.51
+2025-02-23 09:52:28,103 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,104 - INFO - Hive updated: Population=155.31, Honey=37.60
+2025-02-23 09:52:28,120 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,121 - INFO - Hive updated: Population=155.67, Honey=37.69
+2025-02-23 09:52:28,137 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,138 - INFO - Hive updated: Population=156.04, Honey=37.78
+2025-02-23 09:52:28,153 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,154 - INFO - Hive updated: Population=156.40, Honey=37.87
+2025-02-23 09:52:28,170 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,170 - INFO - Hive updated: Population=156.77, Honey=37.96
+2025-02-23 09:52:28,187 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,188 - INFO - Hive updated: Population=157.13, Honey=38.06
+2025-02-23 09:52:28,204 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,205 - INFO - Hive updated: Population=157.50, Honey=38.15
+2025-02-23 09:52:28,220 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,221 - INFO - Hive updated: Population=157.86, Honey=38.24
+2025-02-23 09:52:28,237 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,238 - INFO - Hive updated: Population=158.23, Honey=38.33
+2025-02-23 09:52:28,254 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,255 - INFO - Hive updated: Population=158.59, Honey=38.42
+2025-02-23 09:52:28,271 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,271 - INFO - Hive updated: Population=158.96, Honey=38.51
+2025-02-23 09:52:28,287 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,287 - INFO - Hive updated: Population=159.32, Honey=38.61
+2025-02-23 09:52:28,304 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,304 - INFO - Hive updated: Population=159.69, Honey=38.70
+2025-02-23 09:52:28,320 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,320 - INFO - Hive updated: Population=160.05, Honey=38.79
+2025-02-23 09:52:28,337 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,337 - INFO - Hive updated: Population=160.42, Honey=38.88
+2025-02-23 09:52:28,353 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,354 - INFO - Hive updated: Population=160.78, Honey=38.97
+2025-02-23 09:52:28,369 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,370 - INFO - Hive updated: Population=161.15, Honey=39.06
+2025-02-23 09:52:28,386 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,386 - INFO - Hive updated: Population=161.52, Honey=39.15
+2025-02-23 09:52:28,402 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,402 - INFO - Hive updated: Population=161.88, Honey=39.25
+2025-02-23 09:52:28,418 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,419 - INFO - Hive updated: Population=162.25, Honey=39.34
+2025-02-23 09:52:28,435 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,435 - INFO - Hive updated: Population=162.61, Honey=39.43
+2025-02-23 09:52:28,451 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,451 - INFO - Hive updated: Population=162.98, Honey=39.52
+2025-02-23 09:52:28,468 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,468 - INFO - Hive updated: Population=163.34, Honey=39.61
+2025-02-23 09:52:28,485 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,486 - INFO - Hive updated: Population=163.71, Honey=39.70
+2025-02-23 09:52:28,502 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,502 - INFO - Hive updated: Population=164.07, Honey=39.79
+2025-02-23 09:52:28,518 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,519 - INFO - Hive updated: Population=164.44, Honey=39.89
+2025-02-23 09:52:28,535 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,535 - INFO - Hive updated: Population=164.80, Honey=39.98
+2025-02-23 09:52:28,552 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,552 - INFO - Hive updated: Population=165.17, Honey=40.07
+2025-02-23 09:52:28,568 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,569 - INFO - Hive updated: Population=165.53, Honey=40.16
+2025-02-23 09:52:28,585 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,586 - INFO - Hive updated: Population=165.90, Honey=40.25
+2025-02-23 09:52:28,602 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,603 - INFO - Hive updated: Population=166.26, Honey=40.34
+2025-02-23 09:52:28,618 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,619 - INFO - Hive updated: Population=166.63, Honey=40.43
+2025-02-23 09:52:28,636 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,636 - INFO - Hive updated: Population=166.99, Honey=40.53
+2025-02-23 09:52:28,653 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,654 - INFO - Hive updated: Population=167.36, Honey=40.62
+2025-02-23 09:52:28,670 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,671 - INFO - Hive updated: Population=167.72, Honey=40.71
+2025-02-23 09:52:28,687 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,688 - INFO - Hive updated: Population=168.09, Honey=40.80
+2025-02-23 09:52:28,704 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,705 - INFO - Hive updated: Population=168.45, Honey=40.89
+2025-02-23 09:52:28,720 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,720 - INFO - Hive updated: Population=168.82, Honey=40.98
+2025-02-23 09:52:28,736 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,737 - INFO - Hive updated: Population=169.19, Honey=41.08
+2025-02-23 09:52:28,753 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,753 - INFO - Hive updated: Population=169.55, Honey=41.17
+2025-02-23 09:52:28,769 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,769 - INFO - Hive updated: Population=169.92, Honey=41.26
+2025-02-23 09:52:28,785 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,785 - INFO - Hive updated: Population=170.28, Honey=41.35
+2025-02-23 09:52:28,802 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,803 - INFO - Hive updated: Population=170.65, Honey=41.44
+2025-02-23 09:52:28,818 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,819 - INFO - Hive updated: Population=171.01, Honey=41.53
+2025-02-23 09:52:28,834 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,835 - INFO - Hive updated: Population=171.38, Honey=41.62
+2025-02-23 09:52:28,852 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,853 - INFO - Hive updated: Population=171.74, Honey=41.72
+2025-02-23 09:52:28,868 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,869 - INFO - Hive updated: Population=172.11, Honey=41.81
+2025-02-23 09:52:28,885 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,886 - INFO - Hive updated: Population=172.47, Honey=41.90
+2025-02-23 09:52:28,903 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,903 - INFO - Hive updated: Population=172.84, Honey=41.99
+2025-02-23 09:52:28,919 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,919 - INFO - Hive updated: Population=173.20, Honey=42.08
+2025-02-23 09:52:28,935 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,935 - INFO - Hive updated: Population=173.57, Honey=42.17
+2025-02-23 09:52:28,951 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,951 - INFO - Hive updated: Population=173.93, Honey=42.26
+2025-02-23 09:52:28,968 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,968 - INFO - Hive updated: Population=174.30, Honey=42.36
+2025-02-23 09:52:28,985 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:28,986 - INFO - Hive updated: Population=174.66, Honey=42.45
+2025-02-23 09:52:29,002 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,002 - INFO - Hive updated: Population=175.03, Honey=42.54
+2025-02-23 09:52:29,019 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,020 - INFO - Hive updated: Population=175.39, Honey=42.63
+2025-02-23 09:52:29,036 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,036 - INFO - Hive updated: Population=175.76, Honey=42.72
+2025-02-23 09:52:29,051 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,051 - INFO - Hive updated: Population=176.12, Honey=42.81
+2025-02-23 09:52:29,067 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,068 - INFO - Hive updated: Population=176.49, Honey=42.90
+2025-02-23 09:52:29,084 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,085 - INFO - Hive updated: Population=176.85, Honey=43.00
+2025-02-23 09:52:29,101 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,102 - INFO - Hive updated: Population=177.22, Honey=43.09
+2025-02-23 09:52:29,117 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,118 - INFO - Hive updated: Population=177.59, Honey=43.18
+2025-02-23 09:52:29,134 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,134 - INFO - Hive updated: Population=177.95, Honey=43.27
+2025-02-23 09:52:29,151 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,151 - INFO - Hive updated: Population=178.32, Honey=43.36
+2025-02-23 09:52:29,167 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,168 - INFO - Hive updated: Population=178.68, Honey=43.45
+2025-02-23 09:52:29,184 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,184 - INFO - Hive updated: Population=179.05, Honey=43.55
+2025-02-23 09:52:29,201 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,201 - INFO - Hive updated: Population=179.41, Honey=43.64
+2025-02-23 09:52:29,217 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,218 - INFO - Hive updated: Population=179.78, Honey=43.73
+2025-02-23 09:52:29,233 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,234 - INFO - Hive updated: Population=180.14, Honey=43.82
+2025-02-23 09:52:29,250 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,250 - INFO - Hive updated: Population=180.51, Honey=43.91
+2025-02-23 09:52:29,266 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,267 - INFO - Hive updated: Population=180.87, Honey=44.00
+2025-02-23 09:52:29,283 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,283 - INFO - Hive updated: Population=181.24, Honey=44.09
+2025-02-23 09:52:29,300 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,300 - INFO - Hive updated: Population=181.60, Honey=44.19
+2025-02-23 09:52:29,316 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,316 - INFO - Hive updated: Population=181.97, Honey=44.28
+2025-02-23 09:52:29,333 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,334 - INFO - Hive updated: Population=182.33, Honey=44.37
+2025-02-23 09:52:29,351 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,351 - INFO - Hive updated: Population=182.70, Honey=44.46
+2025-02-23 09:52:29,367 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,368 - INFO - Hive updated: Population=183.06, Honey=44.55
+2025-02-23 09:52:29,384 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,384 - INFO - Hive updated: Population=183.43, Honey=44.64
+2025-02-23 09:52:29,401 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,401 - INFO - Hive updated: Population=183.79, Honey=44.73
+2025-02-23 09:52:29,418 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,418 - INFO - Hive updated: Population=184.16, Honey=44.83
+2025-02-23 09:52:29,434 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,434 - INFO - Hive updated: Population=184.52, Honey=44.92
+2025-02-23 09:52:29,451 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,452 - INFO - Hive updated: Population=184.89, Honey=45.01
+2025-02-23 09:52:29,468 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,468 - INFO - Hive updated: Population=185.25, Honey=45.10
+2025-02-23 09:52:29,485 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,485 - INFO - Hive updated: Population=185.62, Honey=45.19
+2025-02-23 09:52:29,501 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,502 - INFO - Hive updated: Population=185.99, Honey=45.28
+2025-02-23 09:52:29,518 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,518 - INFO - Hive updated: Population=186.35, Honey=45.37
+2025-02-23 09:52:29,535 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,535 - INFO - Hive updated: Population=186.72, Honey=45.47
+2025-02-23 09:52:29,551 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,551 - INFO - Hive updated: Population=187.08, Honey=45.56
+2025-02-23 09:52:29,568 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,568 - INFO - Hive updated: Population=187.45, Honey=45.65
+2025-02-23 09:52:29,585 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,585 - INFO - Hive updated: Population=187.81, Honey=45.74
+2025-02-23 09:52:29,603 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,603 - INFO - Hive updated: Population=188.18, Honey=45.83
+2025-02-23 09:52:29,619 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,619 - INFO - Hive updated: Population=188.54, Honey=45.92
+2025-02-23 09:52:29,636 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,636 - INFO - Hive updated: Population=188.91, Honey=46.02
+2025-02-23 09:52:29,653 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,653 - INFO - Hive updated: Population=189.27, Honey=46.11
+2025-02-23 09:52:29,669 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,669 - INFO - Hive updated: Population=189.64, Honey=46.20
+2025-02-23 09:52:29,684 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,684 - INFO - Hive updated: Population=190.00, Honey=46.29
+2025-02-23 09:52:29,701 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,701 - INFO - Hive updated: Population=190.37, Honey=46.38
+2025-02-23 09:52:29,717 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,717 - INFO - Hive updated: Population=190.73, Honey=46.47
+2025-02-23 09:52:29,733 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,733 - INFO - Hive updated: Population=191.10, Honey=46.56
+2025-02-23 09:52:29,750 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,750 - INFO - Hive updated: Population=191.46, Honey=46.66
+2025-02-23 09:52:29,766 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,767 - INFO - Hive updated: Population=191.83, Honey=46.75
+2025-02-23 09:52:29,783 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,783 - INFO - Hive updated: Population=192.19, Honey=46.84
+2025-02-23 09:52:29,799 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,799 - INFO - Hive updated: Population=192.56, Honey=46.93
+2025-02-23 09:52:29,816 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,816 - INFO - Hive updated: Population=192.92, Honey=47.02
+2025-02-23 09:52:29,833 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,833 - INFO - Hive updated: Population=193.29, Honey=47.11
+2025-02-23 09:52:29,849 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,850 - INFO - Hive updated: Population=193.66, Honey=47.20
+2025-02-23 09:52:29,865 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,866 - INFO - Hive updated: Population=194.02, Honey=47.30
+2025-02-23 09:52:29,881 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,881 - INFO - Hive updated: Population=194.39, Honey=47.39
+2025-02-23 09:52:29,898 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,898 - INFO - Hive updated: Population=194.75, Honey=47.48
+2025-02-23 09:52:29,915 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,915 - INFO - Hive updated: Population=195.12, Honey=47.57
+2025-02-23 09:52:29,932 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,932 - INFO - Hive updated: Population=195.48, Honey=47.66
+2025-02-23 09:52:29,949 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,949 - INFO - Hive updated: Population=195.85, Honey=47.75
+2025-02-23 09:52:29,966 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,967 - INFO - Hive updated: Population=196.21, Honey=47.85
+2025-02-23 09:52:29,982 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:29,983 - INFO - Hive updated: Population=196.58, Honey=47.94
+2025-02-23 09:52:29,999 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,000 - INFO - Hive updated: Population=196.94, Honey=48.03
+2025-02-23 09:52:30,016 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,017 - INFO - Hive updated: Population=197.31, Honey=48.12
+2025-02-23 09:52:30,033 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,033 - INFO - Hive updated: Population=197.67, Honey=48.21
+2025-02-23 09:52:30,050 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,051 - INFO - Hive updated: Population=198.04, Honey=48.30
+2025-02-23 09:52:30,067 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,068 - INFO - Hive updated: Population=198.40, Honey=48.39
+2025-02-23 09:52:30,084 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,085 - INFO - Hive updated: Population=198.77, Honey=48.49
+2025-02-23 09:52:30,101 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,101 - INFO - Hive updated: Population=199.13, Honey=48.58
+2025-02-23 09:52:30,118 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,119 - INFO - Hive updated: Population=199.50, Honey=48.67
+2025-02-23 09:52:30,135 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,135 - INFO - Hive updated: Population=199.86, Honey=48.76
+2025-02-23 09:52:30,153 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,154 - INFO - Hive updated: Population=200.23, Honey=48.85
+2025-02-23 09:52:30,170 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,170 - INFO - Hive updated: Population=200.59, Honey=48.94
+2025-02-23 09:52:30,186 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,187 - INFO - Hive updated: Population=200.96, Honey=49.03
+2025-02-23 09:52:30,203 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,204 - INFO - Hive updated: Population=201.32, Honey=49.13
+2025-02-23 09:52:30,220 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,221 - INFO - Hive updated: Population=201.69, Honey=49.22
+2025-02-23 09:52:30,237 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,237 - INFO - Hive updated: Population=202.06, Honey=49.31
+2025-02-23 09:52:30,253 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,253 - INFO - Hive updated: Population=202.42, Honey=49.40
+2025-02-23 09:52:30,269 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,270 - INFO - Hive updated: Population=202.79, Honey=49.49
+2025-02-23 09:52:30,286 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,286 - INFO - Hive updated: Population=203.15, Honey=49.58
+2025-02-23 09:52:30,302 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,302 - INFO - Hive updated: Population=203.52, Honey=49.67
+2025-02-23 09:52:30,319 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,319 - INFO - Hive updated: Population=203.88, Honey=49.77
+2025-02-23 09:52:30,336 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,336 - INFO - Hive updated: Population=204.25, Honey=49.86
+2025-02-23 09:52:30,352 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,353 - INFO - Hive updated: Population=204.61, Honey=49.95
+2025-02-23 09:52:30,368 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,369 - INFO - Hive updated: Population=204.98, Honey=50.04
+2025-02-23 09:52:30,385 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,386 - INFO - Hive updated: Population=205.34, Honey=50.13
+2025-02-23 09:52:30,403 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,404 - INFO - Hive updated: Population=205.71, Honey=50.22
+2025-02-23 09:52:30,420 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,421 - INFO - Hive updated: Population=206.07, Honey=50.32
+2025-02-23 09:52:30,437 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,438 - INFO - Hive updated: Population=206.44, Honey=50.41
+2025-02-23 09:52:30,454 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,454 - INFO - Hive updated: Population=206.80, Honey=50.50
+2025-02-23 09:52:30,471 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,471 - INFO - Hive updated: Population=207.17, Honey=50.59
+2025-02-23 09:52:30,488 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,488 - INFO - Hive updated: Population=207.53, Honey=50.68
+2025-02-23 09:52:30,504 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,504 - INFO - Hive updated: Population=207.90, Honey=50.77
+2025-02-23 09:52:30,521 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,522 - INFO - Hive updated: Population=208.26, Honey=50.86
+2025-02-23 09:52:30,538 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,539 - INFO - Hive updated: Population=208.63, Honey=50.96
+2025-02-23 09:52:30,555 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,555 - INFO - Hive updated: Population=208.99, Honey=51.05
+2025-02-23 09:52:30,572 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,573 - INFO - Hive updated: Population=209.36, Honey=51.14
+2025-02-23 09:52:30,588 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,589 - INFO - Hive updated: Population=209.72, Honey=51.23
+2025-02-23 09:52:30,605 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,605 - INFO - Hive updated: Population=210.09, Honey=51.32
+2025-02-23 09:52:30,621 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,621 - INFO - Hive updated: Population=210.46, Honey=51.41
+2025-02-23 09:52:30,638 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,638 - INFO - Hive updated: Population=210.82, Honey=51.50
+2025-02-23 09:52:30,654 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,654 - INFO - Hive updated: Population=211.19, Honey=51.60
+2025-02-23 09:52:30,669 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,670 - INFO - Hive updated: Population=211.55, Honey=51.69
+2025-02-23 09:52:30,686 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,686 - INFO - Hive updated: Population=211.92, Honey=51.78
+2025-02-23 09:52:30,703 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,703 - INFO - Hive updated: Population=212.28, Honey=51.87
+2025-02-23 09:52:30,719 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,719 - INFO - Hive updated: Population=212.65, Honey=51.96
+2025-02-23 09:52:30,736 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,736 - INFO - Hive updated: Population=213.01, Honey=52.05
+2025-02-23 09:52:30,753 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,753 - INFO - Hive updated: Population=213.38, Honey=52.14
+2025-02-23 09:52:30,771 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,771 - INFO - Hive updated: Population=213.74, Honey=52.24
+2025-02-23 09:52:30,787 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,788 - INFO - Hive updated: Population=214.11, Honey=52.33
+2025-02-23 09:52:30,803 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,803 - INFO - Hive updated: Population=214.47, Honey=52.42
+2025-02-23 09:52:30,819 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,820 - INFO - Hive updated: Population=214.84, Honey=52.51
+2025-02-23 09:52:30,836 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,837 - INFO - Hive updated: Population=215.20, Honey=52.60
+2025-02-23 09:52:30,852 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,853 - INFO - Hive updated: Population=215.57, Honey=52.69
+2025-02-23 09:52:30,869 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,870 - INFO - Hive updated: Population=215.93, Honey=52.79
+2025-02-23 09:52:30,885 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,885 - INFO - Hive updated: Population=216.30, Honey=52.88
+2025-02-23 09:52:30,902 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,902 - INFO - Hive updated: Population=216.66, Honey=52.97
+2025-02-23 09:52:30,918 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,919 - INFO - Hive updated: Population=217.03, Honey=53.06
+2025-02-23 09:52:30,934 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,935 - INFO - Hive updated: Population=217.39, Honey=53.15
+2025-02-23 09:52:30,951 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,951 - INFO - Hive updated: Population=217.76, Honey=53.24
+2025-02-23 09:52:30,968 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,968 - INFO - Hive updated: Population=218.12, Honey=53.33
+2025-02-23 09:52:30,985 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:30,985 - INFO - Hive updated: Population=218.49, Honey=53.43
+2025-02-23 09:52:31,002 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,002 - INFO - Hive updated: Population=218.86, Honey=53.52
+2025-02-23 09:52:31,018 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,018 - INFO - Hive updated: Population=219.22, Honey=53.61
+2025-02-23 09:52:31,034 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,034 - INFO - Hive updated: Population=219.59, Honey=53.70
+2025-02-23 09:52:31,050 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,050 - INFO - Hive updated: Population=219.95, Honey=53.79
+2025-02-23 09:52:31,067 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,067 - INFO - Hive updated: Population=220.32, Honey=53.88
+2025-02-23 09:52:31,084 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,084 - INFO - Hive updated: Population=220.68, Honey=53.97
+2025-02-23 09:52:31,099 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,100 - INFO - Hive updated: Population=221.05, Honey=54.07
+2025-02-23 09:52:31,115 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,116 - INFO - Hive updated: Population=221.41, Honey=54.16
+2025-02-23 09:52:31,134 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,134 - INFO - Hive updated: Population=221.78, Honey=54.25
+2025-02-23 09:52:31,150 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,150 - INFO - Hive updated: Population=222.14, Honey=54.34
+2025-02-23 09:52:31,167 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,167 - INFO - Hive updated: Population=222.51, Honey=54.43
+2025-02-23 09:52:31,184 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,184 - INFO - Hive updated: Population=222.87, Honey=54.52
+2025-02-23 09:52:31,200 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,200 - INFO - Hive updated: Population=223.24, Honey=54.61
+2025-02-23 09:52:31,217 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,217 - INFO - Hive updated: Population=223.60, Honey=54.71
+2025-02-23 09:52:31,233 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,233 - INFO - Hive updated: Population=223.97, Honey=54.80
+2025-02-23 09:52:31,249 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,249 - INFO - Hive updated: Population=224.33, Honey=54.89
+2025-02-23 09:52:31,266 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,266 - INFO - Hive updated: Population=224.70, Honey=54.98
+2025-02-23 09:52:31,282 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,282 - INFO - Hive updated: Population=225.06, Honey=55.07
+2025-02-23 09:52:31,298 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,298 - INFO - Hive updated: Population=225.43, Honey=55.16
+2025-02-23 09:52:31,314 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,314 - INFO - Hive updated: Population=225.79, Honey=55.26
+2025-02-23 09:52:31,331 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,331 - INFO - Hive updated: Population=226.16, Honey=55.35
+2025-02-23 09:52:31,348 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,348 - INFO - Hive updated: Population=226.53, Honey=55.44
+2025-02-23 09:52:31,364 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,365 - INFO - Hive updated: Population=226.89, Honey=55.53
+2025-02-23 09:52:31,381 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,381 - INFO - Hive updated: Population=227.26, Honey=55.62
+2025-02-23 09:52:31,397 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,398 - INFO - Hive updated: Population=227.62, Honey=55.71
+2025-02-23 09:52:31,415 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,415 - INFO - Hive updated: Population=227.99, Honey=55.80
+2025-02-23 09:52:31,432 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,432 - INFO - Hive updated: Population=228.35, Honey=55.90
+2025-02-23 09:52:31,450 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,450 - INFO - Hive updated: Population=228.72, Honey=55.99
+2025-02-23 09:52:31,466 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,467 - INFO - Hive updated: Population=229.08, Honey=56.08
+2025-02-23 09:52:31,482 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,482 - INFO - Hive updated: Population=229.45, Honey=56.17
+2025-02-23 09:52:31,498 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,499 - INFO - Hive updated: Population=229.81, Honey=56.26
+2025-02-23 09:52:31,515 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,515 - INFO - Hive updated: Population=230.18, Honey=56.35
+2025-02-23 09:52:31,530 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,531 - INFO - Hive updated: Population=230.54, Honey=56.44
+2025-02-23 09:52:31,547 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,547 - INFO - Hive updated: Population=230.91, Honey=56.54
+2025-02-23 09:52:31,562 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,563 - INFO - Hive updated: Population=231.27, Honey=56.63
+2025-02-23 09:52:31,579 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,580 - INFO - Hive updated: Population=231.64, Honey=56.72
+2025-02-23 09:52:31,597 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,597 - INFO - Hive updated: Population=232.00, Honey=56.81
+2025-02-23 09:52:31,613 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,614 - INFO - Hive updated: Population=232.37, Honey=56.90
+2025-02-23 09:52:31,629 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,629 - INFO - Hive updated: Population=232.73, Honey=56.99
+2025-02-23 09:52:31,645 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,646 - INFO - Hive updated: Population=233.10, Honey=57.08
+2025-02-23 09:52:31,661 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,661 - INFO - Hive updated: Population=233.46, Honey=57.18
+2025-02-23 09:52:31,677 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,678 - INFO - Hive updated: Population=233.83, Honey=57.27
+2025-02-23 09:52:31,694 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,695 - INFO - Hive updated: Population=234.19, Honey=57.36
+2025-02-23 09:52:31,711 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,712 - INFO - Hive updated: Population=234.56, Honey=57.45
+2025-02-23 09:52:31,727 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,728 - INFO - Hive updated: Population=234.93, Honey=57.54
+2025-02-23 09:52:31,744 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,744 - INFO - Hive updated: Population=235.29, Honey=57.63
+2025-02-23 09:52:31,760 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,760 - INFO - Hive updated: Population=235.66, Honey=57.73
+2025-02-23 09:52:31,776 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,777 - INFO - Hive updated: Population=236.02, Honey=57.82
+2025-02-23 09:52:31,793 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,794 - INFO - Hive updated: Population=236.39, Honey=57.91
+2025-02-23 09:52:31,812 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,812 - INFO - Hive updated: Population=236.75, Honey=58.00
+2025-02-23 09:52:31,826 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,827 - INFO - Hive updated: Population=237.12, Honey=58.09
+2025-02-23 09:52:31,843 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,844 - INFO - Hive updated: Population=237.48, Honey=58.18
+2025-02-23 09:52:31,860 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,861 - INFO - Hive updated: Population=237.85, Honey=58.27
+2025-02-23 09:52:31,877 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:31,877 - INFO - Hive updated: Population=238.21, Honey=58.37
+2025-02-23 09:52:31,893 - INFO - Bee clicked at (430.9137060016897, 297.65968486727746), switching to inspector
+2025-02-23 09:52:31,894 - INFO - Switching to screen: bee_inspector
+2025-02-23 09:52:33,258 - INFO - Switching to screen: world_map
+2025-02-23 09:52:33,259 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,260 - INFO - Hive updated: Population=238.58, Honey=58.46
+2025-02-23 09:52:33,274 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,275 - INFO - Hive updated: Population=238.94, Honey=58.55
+2025-02-23 09:52:33,293 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,293 - INFO - Hive updated: Population=239.31, Honey=58.64
+2025-02-23 09:52:33,310 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,310 - INFO - Hive updated: Population=239.67, Honey=58.73
+2025-02-23 09:52:33,325 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,326 - INFO - Hive updated: Population=240.04, Honey=58.82
+2025-02-23 09:52:33,342 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,343 - INFO - Hive updated: Population=240.40, Honey=58.91
+2025-02-23 09:52:33,358 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,359 - INFO - Hive updated: Population=240.77, Honey=59.01
+2025-02-23 09:52:33,376 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,376 - INFO - Hive updated: Population=241.13, Honey=59.10
+2025-02-23 09:52:33,392 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,392 - INFO - Hive updated: Population=241.50, Honey=59.19
+2025-02-23 09:52:33,409 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,409 - INFO - Hive updated: Population=241.86, Honey=59.28
+2025-02-23 09:52:33,425 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,425 - INFO - Hive updated: Population=242.23, Honey=59.37
+2025-02-23 09:52:33,442 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,443 - INFO - Hive updated: Population=242.59, Honey=59.46
+2025-02-23 09:52:33,459 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,459 - INFO - Hive updated: Population=242.96, Honey=59.55
+2025-02-23 09:52:33,476 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,477 - INFO - Hive updated: Population=243.33, Honey=59.65
+2025-02-23 09:52:33,493 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,494 - INFO - Hive updated: Population=243.69, Honey=59.74
+2025-02-23 09:52:33,510 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,510 - INFO - Hive updated: Population=244.06, Honey=59.83
+2025-02-23 09:52:33,526 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,527 - INFO - Hive updated: Population=244.42, Honey=59.92
+2025-02-23 09:52:33,542 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,542 - INFO - Hive updated: Population=244.79, Honey=60.01
+2025-02-23 09:52:33,558 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,559 - INFO - Hive updated: Population=245.15, Honey=60.10
+2025-02-23 09:52:33,575 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,575 - INFO - Hive updated: Population=245.52, Honey=60.20
+2025-02-23 09:52:33,591 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,592 - INFO - Hive updated: Population=245.88, Honey=60.29
+2025-02-23 09:52:33,607 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,608 - INFO - Hive updated: Population=246.25, Honey=60.38
+2025-02-23 09:52:33,624 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,625 - INFO - Hive updated: Population=246.61, Honey=60.47
+2025-02-23 09:52:33,640 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,641 - INFO - Hive updated: Population=246.98, Honey=60.56
+2025-02-23 09:52:33,660 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,661 - INFO - Hive updated: Population=247.34, Honey=60.65
+2025-02-23 09:52:33,675 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,675 - INFO - Hive updated: Population=247.71, Honey=60.74
+2025-02-23 09:52:33,691 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,691 - INFO - Hive updated: Population=248.07, Honey=60.84
+2025-02-23 09:52:33,706 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,707 - INFO - Hive updated: Population=248.44, Honey=60.93
+2025-02-23 09:52:33,723 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,723 - INFO - Hive updated: Population=248.80, Honey=61.02
+2025-02-23 09:52:33,739 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,740 - INFO - Hive updated: Population=249.17, Honey=61.11
+2025-02-23 09:52:33,755 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,756 - INFO - Hive updated: Population=249.53, Honey=61.20
+2025-02-23 09:52:33,772 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,772 - INFO - Hive updated: Population=249.90, Honey=61.29
+2025-02-23 09:52:33,788 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,788 - INFO - Hive updated: Population=250.26, Honey=61.38
+2025-02-23 09:52:33,804 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,805 - INFO - Hive updated: Population=250.63, Honey=61.48
+2025-02-23 09:52:33,821 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,822 - INFO - Hive updated: Population=251.00, Honey=61.57
+2025-02-23 09:52:33,838 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,839 - INFO - Hive updated: Population=251.36, Honey=61.66
+2025-02-23 09:52:33,855 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,856 - INFO - Hive updated: Population=251.73, Honey=61.75
+2025-02-23 09:52:33,872 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,872 - INFO - Hive updated: Population=252.09, Honey=61.84
+2025-02-23 09:52:33,889 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,889 - INFO - Hive updated: Population=252.46, Honey=61.93
+2025-02-23 09:52:33,905 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,906 - INFO - Hive updated: Population=252.82, Honey=62.02
+2025-02-23 09:52:33,922 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,923 - INFO - Hive updated: Population=253.19, Honey=62.12
+2025-02-23 09:52:33,940 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,941 - INFO - Hive updated: Population=253.55, Honey=62.21
+2025-02-23 09:52:33,957 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,957 - INFO - Hive updated: Population=253.92, Honey=62.30
+2025-02-23 09:52:33,973 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,974 - INFO - Hive updated: Population=254.28, Honey=62.39
+2025-02-23 09:52:33,989 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:33,990 - INFO - Hive updated: Population=254.65, Honey=62.48
+2025-02-23 09:52:34,006 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,007 - INFO - Hive updated: Population=255.01, Honey=62.57
+2025-02-23 09:52:34,023 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,024 - INFO - Hive updated: Population=255.38, Honey=62.67
+2025-02-23 09:52:34,040 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,040 - INFO - Hive updated: Population=255.74, Honey=62.76
+2025-02-23 09:52:34,056 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,056 - INFO - Hive updated: Population=256.11, Honey=62.85
+2025-02-23 09:52:34,072 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,072 - INFO - Hive updated: Population=256.47, Honey=62.94
+2025-02-23 09:52:34,089 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,089 - INFO - Hive updated: Population=256.84, Honey=63.03
+2025-02-23 09:52:34,106 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,106 - INFO - Hive updated: Population=257.20, Honey=63.12
+2025-02-23 09:52:34,124 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,124 - INFO - Hive updated: Population=257.57, Honey=63.21
+2025-02-23 09:52:34,139 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,140 - INFO - Hive updated: Population=257.93, Honey=63.31
+2025-02-23 09:52:34,156 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,157 - INFO - Hive updated: Population=258.30, Honey=63.40
+2025-02-23 09:52:34,173 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,173 - INFO - Hive updated: Population=258.66, Honey=63.49
+2025-02-23 09:52:34,189 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,189 - INFO - Hive updated: Population=259.03, Honey=63.58
+2025-02-23 09:52:34,206 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,206 - INFO - Hive updated: Population=259.40, Honey=63.67
+2025-02-23 09:52:34,224 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,225 - INFO - Hive updated: Population=259.76, Honey=63.76
+2025-02-23 09:52:34,241 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,241 - INFO - Hive updated: Population=260.13, Honey=63.85
+2025-02-23 09:52:34,257 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,257 - INFO - Hive updated: Population=260.49, Honey=63.95
+2025-02-23 09:52:34,274 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,274 - INFO - Hive updated: Population=260.86, Honey=64.04
+2025-02-23 09:52:34,290 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,290 - INFO - Hive updated: Population=261.22, Honey=64.13
+2025-02-23 09:52:34,305 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,306 - INFO - Hive updated: Population=261.59, Honey=64.22
+2025-02-23 09:52:34,322 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,323 - INFO - Hive updated: Population=261.95, Honey=64.31
+2025-02-23 09:52:34,339 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,339 - INFO - Hive updated: Population=262.32, Honey=64.40
+2025-02-23 09:52:34,356 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,356 - INFO - Hive updated: Population=262.68, Honey=64.49
+2025-02-23 09:52:34,372 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,372 - INFO - Hive updated: Population=263.05, Honey=64.59
+2025-02-23 09:52:34,388 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,389 - INFO - Hive updated: Population=263.41, Honey=64.68
+2025-02-23 09:52:34,405 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,406 - INFO - Hive updated: Population=263.78, Honey=64.77
+2025-02-23 09:52:34,424 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,424 - INFO - Hive updated: Population=264.14, Honey=64.86
+2025-02-23 09:52:34,442 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,442 - INFO - Hive updated: Population=264.51, Honey=64.95
+2025-02-23 09:52:34,458 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,458 - INFO - Hive updated: Population=264.87, Honey=65.04
+2025-02-23 09:52:34,474 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,474 - INFO - Hive updated: Population=265.24, Honey=65.14
+2025-02-23 09:52:34,490 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,491 - INFO - Hive updated: Population=265.60, Honey=65.23
+2025-02-23 09:52:34,507 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,508 - INFO - Hive updated: Population=265.97, Honey=65.32
+2025-02-23 09:52:34,524 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,524 - INFO - Hive updated: Population=266.33, Honey=65.41
+2025-02-23 09:52:34,539 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,539 - INFO - Hive updated: Population=266.70, Honey=65.50
+2025-02-23 09:52:34,556 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,556 - INFO - Hive updated: Population=267.06, Honey=65.59
+2025-02-23 09:52:34,573 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,573 - INFO - Hive updated: Population=267.43, Honey=65.68
+2025-02-23 09:52:34,590 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,590 - INFO - Hive updated: Population=267.80, Honey=65.78
+2025-02-23 09:52:34,606 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,606 - INFO - Hive updated: Population=268.16, Honey=65.87
+2025-02-23 09:52:34,621 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,622 - INFO - Hive updated: Population=268.53, Honey=65.96
+2025-02-23 09:52:34,638 - INFO - Worker efficiency: 0.09, Compatibility: 0.8
+2025-02-23 09:52:34,639 - INFO - Hive updated: Population=268.89, Honey=66.05
+2025-02-23 09:52:34,750 - INFO - Quit event received

@@ -1,0 +1,10 @@
+I would like to create a bee-keeping simulator game
+
+let's incorporate elements of the pokemon games so that each bee has statistics like pokemon
+
+when the game starts you play as a bee-keeper who's goal is to catch a swarm, grow a hive, sustain multiple colonies, harvest honey, keep your colonies alive through the harsh winter conditions
+
+it would be fun to walk around and try to capture bees like Ash walks around and catches new pokemon in the pokemon games, finding and placing a certain item on the ground might increase the likelihood of attracting a swarm, the user needs a way to easily create and provide sugar water to the hives to help them survive the winter, but providing sugar water to the hives should also degrade the quality of the honey they produce, harvesting honey from a hive should impact the hive in several ways including stressing out the hive and reducing their available energy to make it through the winter etc
+
+
+what language should we code the game in? can we create a game like this in pygame?
